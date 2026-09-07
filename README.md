@@ -236,3 +236,6 @@ This repository serves as the official landing page for Bingo Caller. The softwa
 [![Download Latest Version](https://img.shields.io/badge/📥%20Download%20Latest%20Version-00b4d8?style=for-the-badge&logo=github&logoColor=white)](https://bingo-caller.com)
 
 **Get the most recent version of Bingo Caller today!**
+
+---
+**Last updated:** 2026-09-07 18:59:33 UTC
